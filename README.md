@@ -17,6 +17,7 @@ A personal journey of thinking, questioning, understanding, and evolving.
 - [models/](models/) — 思维模型、分析框架与可复用的方法
 - [questions/](questions/) — 值得持续追问、暂时没有答案的问题
 - [essays/](essays/) — 经过整理的长文与系统性思考
+  - [新学生思维：从寻找答案，到自主定义人生](essays/new-student-thinking.md)
 - [reading-notes/](reading-notes/) — 书籍、文章和其他资料的阅读笔记
 - [templates/](templates/) — 记录模板
 
